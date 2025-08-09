@@ -74,22 +74,4 @@ To develop and compare three different approaches for predicting currency exchan
 ### Forecast Visualization
 ![Forecast Example](docs/forecast_plot.png)
 
----
-
-## 🚀 How to Run
-```bash
-# Clone repository
-git clone https://github.com/yourusername/currency-forecasting.git
-cd currency-forecasting
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python forecasting.py
-📚 Next Steps
-Integration with real-time exchange rate APIs (e.g., Open Exchange Rates).
-
-Deployment as a Streamlit web app for non-technical users.
-
 Adding model explainability metrics for business transparency.
