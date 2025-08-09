@@ -71,7 +71,43 @@ To develop and compare three different approaches for predicting currency exchan
 | 2    | 41.70         |
 | 3    | 42.15         |
 
-### Forecast Visualization
-![Forecast Example](docs/forecast_plot.png)
+## 📸 Results & Visualizations
+
+### **Variant #1 – Given Data**
+*(Real exchange rates for next 2 days: 41.20, 41.40)*  
+7 visualizations showing model performance on provided data.
+
+![img1](doc/img1.png)  
+![img2](doc/img2.png)  
+![img3](doc/img3.png)  
+![img4](doc/img4.png)  
+![img5](doc/img5.png)  
+![img6](doc/img6.png)  
+![img7](doc/img7.png)  
+
+---
+
+### **Variant #2 – Custom Data**  
+*(User-provided dataset)*  
+3 visualizations showing adaptability to alternative data sources.
+
+![img8](doc/img8.png)  
+![img9](doc/img9.png)  
+![img10](doc/img10.png)  
+
+---
+
+### **Variant #3 – Load from Document**  
+*(External dataset loaded from file)*  
+5 visualizations showing performance on third-party data.
+
+![img11](doc/img11.png)  
+![img12](doc/img12.png)  
+![img13](doc/img13.png)  
+![img14](doc/img14.png)  
+![img15](doc/img15.png)  
+
+---
+
 
 Adding model explainability metrics for business transparency.
